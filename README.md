@@ -6,7 +6,7 @@ Full-Stack Developer | Software Engineer | AI Enthusiast
 
 I am a **Software Engineer** specializing in building high-performance mobile and web applications. Currently, I'm leading the development of service-oriented mobile apps in Syria to enhance local community services.
 
-* 🌐 **Live Portfolio:** [Explore my work here!](https://randportfolio.com)
+* 🌐 **Live Portfolio:** [Explore my work here!](https://site53742-qpl6iw.scloudsite101.com/randportfolio/)
 * 🎓 **Education:** Pursuing a Bachelor in ITE (Data Science) and a Diploma in Business Administration.
 * 💻 **Specialty:** Full-Stack development with a focus on Flutter, React, and Node.js.
 * 🤖 **Innovation:** Expert in **AI-Driven Development (Vibe Coding)** and AI Agent Orchestration.
@@ -27,19 +27,18 @@ A modern full-stack web application that connects restaurants with communities t
 * **Tech:** React 18, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion.
 * **Key Innovation:** Features "Suspended Meals" donation system and eco-friendly "Shared Delivery" matching.
 
-#### 🌐 **My Personal Portfolio**
+#### 🌐 *[*My Personal Portfolio]**
 My official portfolio website built with **React & Node.js**, featuring a dynamic contact system and responsive design.
 
-#### ✨ **Dream Weaver**
+#### ✨ **[Dream Weaver*]*
 A revolutionary Flutter app that transforms text descriptions into AI-generated visual scenes using **HuggingFace & OpenAI**.
 * **Tech:** Clean Architecture, Riverpod, Docker, NVIDIA CUDA.
 
-#### 💄 **Velour-Beauty**
+#### 💄 **[Velour-Beauty]**
 E-commerce mobile application for luxury beauty products with advanced filtering and modular catalog.
 
 📊 **GitHub Stats**
 
-![Rand's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1356-w&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1356-w&layout=compact&theme=radical)
 
 📫 **Connect with me:**
