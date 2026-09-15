@@ -18,7 +18,7 @@ I am a **Software Engineer** specializing in building high-performance mobile an
 | Frontend | Flutter, React.js, React Native, Dart, JavaScript |
 | Backend | Node.js, Django, Flask, Python |
 | AI Tools | Claude 3.5 Sonnet, Google Gemini, GitHub Copilot |
-| Databases | SQL, MySQL, Firebase, NoSQL |
+| Databases | SQL, MySQL, PostgreSQL, Firebase, NoSQL |
 
 📂 **Featured Projects**
 
@@ -30,19 +30,24 @@ End-to-end delivery platform built at Casper AI — customer, merchant/admin, an
 Bilingual (Arabic/English) marketing website for Sityx, a cloud hosting and software development agency.
 * **Tech:** React, Tailwind CSS, RTL support.
 
+#### 📡 **[Tala Net — ISP Customer Portal](https://github.com/r1356-w/Tala-Net)**
+A production-ready ISP management dashboard where customers track data usage and request speed upgrades, and administrators manage users, subscriptions, and bandwidth requests.
+* **Tech:** React, Node.js, Express, PostgreSQL, Sequelize, Tailwind CSS.
+
 #### 🐞 **[debug_layout_hud](https://pub.dev/packages/debug_layout_hud)**
 A published, open-source Flutter package — a debug-only floating HUD for live layout metrics, breakpoints, and text scale.
 * **Tech:** Flutter, Dart. Published on pub.dev.
 
 #### 🍲 **[Sufra - Community Food Sharing](https://github.com/r1356-w/Sufra---Community-Food-Sharing-)**
-A community-driven platform connecting food donors with people in need, with real-time inventory tracking and donation management.
-* **Tech:** React, Node.js, Express, MongoDB, Geolocation, JWT.
+A modern full-stack web platform connecting restaurants with communities through meal donations, shared delivery, and real-time impact tracking.
+* **Tech:** React 18, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion.
+* **Key Innovation:** "Suspended Meals" donation system and eco-friendly "Shared Delivery" matching.
 
 #### ✨ **[Dream Weaver](https://github.com/r1356-w)**
 A Flutter app that transforms text descriptions into AI-generated visual scenes using HuggingFace & OpenAI.
 * **Tech:** Flutter, Riverpod, Docker, NVIDIA CUDA, Vue.js admin dashboard.
 
-#### 💄 **Velour-Beauty**
+#### 💄 **[Velour-Beauty](https://github.com/r1356-w/Velour-Beauty)**
 A full-featured e-commerce web platform for a beauty brand with product catalog, cart, and secure checkout.
 * **Tech:** MongoDB, Express, React, Node.js, Stripe, JWT.
 
