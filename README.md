@@ -51,10 +51,6 @@ A Flutter app that transforms text descriptions into AI-generated visual scenes 
 A full-featured e-commerce web platform for a beauty brand with product catalog, cart, and secure checkout.
 * **Tech:** MongoDB, Express, React, Node.js, Stripe, JWT.
 
-📊 **GitHub Stats**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1356-w&layout=compact&theme=radical)
-
 📫 **Connect with me:**
 
 * 🌐 **Portfolio:** [r1356-w.github.io/Rand-Portfolio](https://r1356-w.github.io/Rand-Portfolio/)
