@@ -4,9 +4,9 @@ Full-Stack Developer | Software Engineer | AI Enthusiast
 
 🚀 **About Me**
 
-I am a **Software Engineer** specializing in building high-performance mobile and web applications. Currently, I'm leading the development of service-oriented mobile apps in Syria to enhance local community services.
+I am a **Software Engineer** specializing in building high-performance mobile and web applications. Currently working as a **Full-Stack Developer at Sityx** and a **Flutter Developer at Casper AI**, where I'm a core contributor to Blink Delivery — a live, multi-app delivery platform serving real customers.
 
-* 🌐 **Live Portfolio:** [Explore my work here!](https://site53742-qpl6iw.scloudsite101.com/randportfolio/)
+* 🌐 **Live Portfolio:** [Explore my work here!](https://r1356-w.github.io/Rand-Portfolio/)
 * 🎓 **Education:** Pursuing a Bachelor in ITE (Data Science) and a Diploma in Business Administration.
 * 💻 **Specialty:** Full-Stack development with a focus on Flutter, React, and Node.js.
 * 🤖 **Innovation:** Expert in **AI-Driven Development (Vibe Coding)** and AI Agent Orchestration.
@@ -22,20 +22,29 @@ I am a **Software Engineer** specializing in building high-performance mobile an
 
 📂 **Featured Projects**
 
-#### 🚚 **[Sufra - Community Food Sharing Platform](https://github.com/r1356-w/Sufra)**
-A modern full-stack web application that connects restaurants with communities through meal donations, shared delivery, and real-time impact tracking.
-* **Tech:** React 18, Node.js, MongoDB, Socket.io, Tailwind CSS, Framer Motion.
-* **Key Innovation:** Features "Suspended Meals" donation system and eco-friendly "Shared Delivery" matching.
+#### 🛵 **Blink Delivery Platform**
+End-to-end delivery platform built at Casper AI — customer, merchant/admin, and driver (captain) apps, already live and serving real customers.
+* **Tech:** Flutter, GetX, Dio, Firebase, Google Maps, WebSockets.
 
-#### 🌐 *[*My Personal Portfolio]**
-My official portfolio website built with **React & Node.js**, featuring a dynamic contact system and responsive design.
+#### ☁️ **[Sityx Company Website](https://sityx.com)**
+Bilingual (Arabic/English) marketing website for Sityx, a cloud hosting and software development agency.
+* **Tech:** React, Tailwind CSS, RTL support.
 
-#### ✨ **[Dream Weaver*]*
-A revolutionary Flutter app that transforms text descriptions into AI-generated visual scenes using **HuggingFace & OpenAI**.
-* **Tech:** Clean Architecture, Riverpod, Docker, NVIDIA CUDA.
+#### 🐞 **[debug_layout_hud](https://pub.dev/packages/debug_layout_hud)**
+A published, open-source Flutter package — a debug-only floating HUD for live layout metrics, breakpoints, and text scale.
+* **Tech:** Flutter, Dart. Published on pub.dev.
 
-#### 💄 **[Velour-Beauty]**
-E-commerce mobile application for luxury beauty products with advanced filtering and modular catalog.
+#### 🍲 **[Sufra - Community Food Sharing](https://github.com/r1356-w/Sufra---Community-Food-Sharing-)**
+A community-driven platform connecting food donors with people in need, with real-time inventory tracking and donation management.
+* **Tech:** React, Node.js, Express, MongoDB, Geolocation, JWT.
+
+#### ✨ **[Dream Weaver](https://github.com/r1356-w)**
+A Flutter app that transforms text descriptions into AI-generated visual scenes using HuggingFace & OpenAI.
+* **Tech:** Flutter, Riverpod, Docker, NVIDIA CUDA, Vue.js admin dashboard.
+
+#### 💄 **Velour-Beauty**
+A full-featured e-commerce web platform for a beauty brand with product catalog, cart, and secure checkout.
+* **Tech:** MongoDB, Express, React, Node.js, Stripe, JWT.
 
 📊 **GitHub Stats**
 
@@ -43,6 +52,8 @@ E-commerce mobile application for luxury beauty products with advanced filtering
 
 📫 **Connect with me:**
 
-* 🌍 **Website:** [randportfolio](https://randportfolio.com)
-* 📧 **Email:** randoraij27@gmail.com
-* 📍 **Location:** Syria
+* 🌐 **Portfolio:** [r1356-w.github.io/Rand-Portfolio](https://r1356-w.github.io/Rand-Portfolio/)
+* 💼 **LinkedIn:** [rand-oraij](https://www.linkedin.com/in/rand-oraij-49965b436)
+* 📱 **WhatsApp:** [+963 992 684 568](https://wa.me/963992684568)
+* 📧 **Email:** randorij27@gmail.com
+* 📍 **Location:** As-Suwayda, Syria
